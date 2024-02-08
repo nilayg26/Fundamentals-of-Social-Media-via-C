@@ -32,7 +32,7 @@
     tiyaaa123
     19
 
-    0
+    0  //Entering 0 to stop the prompt
     Enter freinds user ids to add as freinds
     for eg: rahul69 reema123
     Enter 0 to stop
@@ -47,7 +47,7 @@
     Gaurish Todi and Tiya Agarwal are now freinds
     nilay2612 vjami@23
     Nilay Gupta and Vishnu Jami are now freinds
-    0
+    0  //Entering 0 to stop the prompt
     freinds of Nilay Gupta are 2
     freinds of Nilay Gupta:
     Ananya Shukla
