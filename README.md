@@ -1,4 +1,5 @@
-# This C program illustrates fundamental operations of a social media platform, such as adding friends by username and providing mutual friend recommendations.
+# Basics Operations of Social Media in C: Adding Friends and Mutual Recommendations.
+# Source Code: social.c
 ## Sample I/0: 
     To stop the prompt enter 0 when prompt asks user name
     Enter the name of user
