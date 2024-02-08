@@ -1,4 +1,4 @@
-# This C program illustrates fundamental operations of a social media platform, such as adding friends by username and providing mutual friend recommendations.".
+# This C program illustrates fundamental operations of a social media platform, such as adding friends by username and providing mutual friend recommendations.
 ## Sample I/0: 
     To stop the prompt enter 0 when prompt asks user name
     Enter the name of user
@@ -48,7 +48,7 @@
     Gaurish Todi and Tiya Agarwal are now freinds
     nilay2612 vjami@23
     Nilay Gupta and Vishnu Jami are now freinds
-    
+
     0  //Entering 0 to stop the prompt
 
     freinds of Nilay Gupta are 2
