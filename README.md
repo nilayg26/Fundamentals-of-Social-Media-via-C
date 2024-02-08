@@ -35,55 +35,55 @@
 
     0  //Entering 0 to stop the prompt
 
-    Enter freinds user ids to add as freinds
+    Enter friends user ids to add as friends
     for eg: rahul69 reema123
     Enter 0 to stop
     To stop the prompt enter 0
     akks0512 nilay2612
-    Ananya Shukla and Nilay Gupta are now freinds
+    Ananya Shukla and Nilay Gupta are now friends
     tiyaaa123 vjami@23
-    Tiya Agarwal and Vishnu Jami are now freinds
+    Tiya Agarwal and Vishnu Jami are now friends
     ani.saha@98 amee@123
-    Anisha Saha and Ameesha Gupta are now freinds
+    Anisha Saha and Ameesha Gupta are now friends
     gtodi@12 tiyaaa123
-    Gaurish Todi and Tiya Agarwal are now freinds
+    Gaurish Todi and Tiya Agarwal are now friends
     nilay2612 vjami@23
-    Nilay Gupta and Vishnu Jami are now freinds
+    Nilay Gupta and Vishnu Jami are now friends
 
     0  //Entering 0 to stop the prompt
 
-    freinds of Nilay Gupta are 2
-    freinds of Nilay Gupta:
+    friends of Nilay Gupta are 2
+    friends of Nilay Gupta:
     Ananya Shukla
     Vishnu Jami
-    freinds of Gaurish Todi are 1
-    freinds of Gaurish Todi:
+    friends of Gaurish Todi are 1
+    friends of Gaurish Todi:
     Tiya Agarwal
-    freinds of Vishnu Jami are 2
-    freinds of Vishnu Jami:
+    friends of Vishnu Jami are 2
+    friends of Vishnu Jami:
     Tiya Agarwal
     Nilay Gupta
-    freinds of Ameesha Gupta are 1
-    freinds of Ameesha Gupta:
+    friends of Ameesha Gupta are 1
+    friends of Ameesha Gupta:
     Anisha Saha
-    freinds of Anisha Saha are 1
-    freinds of Anisha Saha:
+    friends of Anisha Saha are 1
+    friends of Anisha Saha:
     Ameesha Gupta
-    freinds of Ananya Shukla are 1
-    freinds of Ananya Shukla:
+    friends of Ananya Shukla are 1
+    friends of Ananya Shukla:
     Nilay Gupta
-    freinds of Tiya Agarwal are 2
-    freinds of Tiya Agarwal:
+    friends of Tiya Agarwal are 2
+    friends of Tiya Agarwal:
     Vishnu Jami
     Gaurish Todi
 
-    Freindship strength of Nilay Gupta is 8.800
-    Freindship strength of Gaurish Todi is 8.200
-    Freindship strength of Vishnu Jami is 8.800
-    Freindship strength of Ameesha Gupta is 8.600
-    Freindship strength of Anisha Saha is 8.200
-    Freindship strength of Ananya Shukla is 8.200
-    Freindship strength of Tiya Agarwal is 9.200
+    friendship strength of Nilay Gupta is 8.800
+    friendship strength of Gaurish Todi is 8.200
+    friendship strength of Vishnu Jami is 8.800
+    friendship strength of Ameesha Gupta is 8.600
+    friendship strength of Anisha Saha is 8.200
+    friendship strength of Ananya Shukla is 8.200
+    friendship strength of Tiya Agarwal is 9.200
     The most social person is Tiya Agarwal with score 9.200
 
     Mutuals Recommendation for Nilay Gupta is Tiya Agarwal

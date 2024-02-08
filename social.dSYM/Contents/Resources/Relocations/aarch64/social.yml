@@ -8,9 +8,9 @@ relocations:
   - { offsetInCU: 0x79, offset: 0x79, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000030D4, symSize: 0x6A4 }
   - { offsetInCU: 0x269, offset: 0x269, size: 0x8, addend: 0x0, symName: _check1, symObjAddr: 0x6A4, symBinAddr: 0x100003778, symSize: 0xA8 }
   - { offsetInCU: 0x2C9, offset: 0x2C9, size: 0x8, addend: 0x0, symName: _addFriend, symObjAddr: 0x74C, symBinAddr: 0x100003820, symSize: 0x118 }
-  - { offsetInCU: 0x2FB, offset: 0x2FB, size: 0x8, addend: 0x0, symName: _calculateFreindshipStrength, symObjAddr: 0x864, symBinAddr: 0x100003938, symSize: 0xE0 }
-  - { offsetInCU: 0x377, offset: 0x377, size: 0x8, addend: 0x0, symName: _generateFreindshipRecommendation, symObjAddr: 0x944, symBinAddr: 0x100003A18, symSize: 0x110 }
-  - { offsetInCU: 0x3D3, offset: 0x3D3, size: 0x8, addend: 0x0, symName: _check_freinds, symObjAddr: 0xA54, symBinAddr: 0x100003B28, symSize: 0xAC }
+  - { offsetInCU: 0x2FB, offset: 0x2FB, size: 0x8, addend: 0x0, symName: _calculatefriendshipStrength, symObjAddr: 0x864, symBinAddr: 0x100003938, symSize: 0xE0 }
+  - { offsetInCU: 0x377, offset: 0x377, size: 0x8, addend: 0x0, symName: _generatefriendshipRecommendation, symObjAddr: 0x944, symBinAddr: 0x100003A18, symSize: 0x110 }
+  - { offsetInCU: 0x3D3, offset: 0x3D3, size: 0x8, addend: 0x0, symName: _check_friends, symObjAddr: 0xA54, symBinAddr: 0x100003B28, symSize: 0xAC }
   - { offsetInCU: 0x425, offset: 0x425, size: 0x8, addend: 0x0, symName: _check_mutuals, symObjAddr: 0xB00, symBinAddr: 0x100003BD4, symSize: 0xBC }
   - { offsetInCU: 0x477, offset: 0x477, size: 0x8, addend: 0x0, symName: _check, symObjAddr: 0xBBC, symBinAddr: 0x100003C90, symSize: 0x8C }
 ...

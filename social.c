@@ -11,11 +11,11 @@ struct User {
     struct User *friends[100];
     int friend_count; 
 };
-int check_freinds(struct User *user1, struct User *user2);
+int check_friends(struct User *user1, struct User *user2);
 void addFriend(struct User *user1, struct User *user2);
-float calculateFreindshipStrength(struct User*user1);
+float calculatefriendshipStrength(struct User*user1);
 int check_mutuals(struct User *user1, struct User *user2);
-void generateFreindshipRecommendation(struct User*user1);
+void generatefriendshipRecommendation(struct User*user1);
 int check1(char a[],char b[]);
 int main(){
     struct User all_user[100];
@@ -44,7 +44,7 @@ gn=i;
 for(int j=0;j<i;j++){
     all_user[j].friend_count=0;
 }
-printf("Enter freinds user ids to add as freinds\nfor eg: rahul69 reema123\n Enter 0 to stop\n");
+printf("Enter friends user ids to add as friends\nfor eg: rahul69 reema123\n Enter 0 to stop\n");
 printf("To stop the prompt enter 0\n");
 int d=0;
 for(int j=0;j<50;j++){
@@ -74,12 +74,12 @@ for(int j=0;j<50;j++){
     addFriend(&all_user[index1],&all_user[index2]);
     }
     else{
-        printf("freinds not found\n");
+        printf("friends not found\n");
     }
 }
 for(int n=0;n<i;n++){
-    printf("freinds of %s are %d\n",all_user[n].name,all_user[n].friend_count);
-    printf("freinds of %s:\n",all_user[n].name);
+    printf("friends of %s are %d\n",all_user[n].name,all_user[n].friend_count);
+    printf("friends of %s:\n",all_user[n].name);
     for(int j=0;j<all_user[n].friend_count;j++){
         printf("%s\n",all_user[n].friends[j]->name);
     }
@@ -89,8 +89,8 @@ float h_score=0;
 float val=0;
 int u=0;
 for(int j=0;j<i;j++){
-    val=calculateFreindshipStrength(&all_user[j]);
-    printf("Freindship strength of %s is %.3f\n",all_user[j].name,val);
+    val=calculatefriendshipStrength(&all_user[j]);
+    printf("friendship strength of %s is %.3f\n",all_user[j].name,val);
     if(h_score<val){
         u=j;
         h_score=val;
@@ -99,29 +99,29 @@ for(int j=0;j<i;j++){
 printf("The most social person is %s with score %.3f\n",all_user[u].name,h_score);
 printf("\n");
 for(int j=0;j<i;j++){
-    generateFreindshipRecommendation(&all_user[j]);
+    generatefriendshipRecommendation(&all_user[j]);
 }
     return 0; 
 }
 void addFriend(struct User *user1, struct User *user2) {
-    if(check_freinds(user1,user2)==-1){
+    if(check_friends(user1,user2)==-1){
     user1->friends[user1->friend_count] = user2;
     user2->friends[user2->friend_count] = user1;
     user1->friend_count++;
     user2->friend_count++;
-    printf("%s and %s are now freinds\n",user1->name,user2->name);
+    printf("%s and %s are now friends\n",user1->name,user2->name);
     return;
     }
-    else if(check_freinds(user1,user2)==0){
-    printf("They are already freinds\n");
+    else if(check_friends(user1,user2)==0){
+    printf("They are already friends\n");
     return;
     }
-    else if(check_freinds(user1,user2)==1){
-    printf("No need to add, a human is always a freinds of himself/herself\n");
+    else if(check_friends(user1,user2)==1){
+    printf("No need to add, a human is always a friends of himself/herself\n");
     return ;
     } 
 }
-int check_freinds(struct User *user1, struct User *user2) {
+int check_friends(struct User *user1, struct User *user2) {
     if(user1->userID==user2->userID){ 
         return 1;
     }
@@ -132,7 +132,7 @@ int check_freinds(struct User *user1, struct User *user2) {
     }
     return -1;
 }
-float calculateFreindshipStrength(struct User*user1){
+float calculatefriendshipStrength(struct User*user1){
     float fc= 0.6;
     float aa=0.4;
     float age1=0;
@@ -144,7 +144,7 @@ float calculateFreindshipStrength(struct User*user1){
     float total_weight= aa+fc;
     return total_weight;
 }
-void generateFreindshipRecommendation(struct User *user1){
+void generatefriendshipRecommendation(struct User *user1){
     for(int i=0;i<user1->friend_count;i++){
         for(int j=0;j<user1->friends[i]->friend_count;j++){
            if(check_mutuals(user1,user1->friends[i]->friends[j])==-1){
