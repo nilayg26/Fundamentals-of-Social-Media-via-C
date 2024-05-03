@@ -17,8 +17,8 @@
     vjami@23
     20
 
-    Ameesha Gupta 
-    amee@123
+    Niharika Kapoor 
+    nkks0512
     19
 
     Anisha Saha
@@ -43,8 +43,8 @@
     Ananya Shukla and Nilay Gupta are now friends
     aki@123 vjami@23
     Akshat Gupta and Vishnu Jami are now friends
-    ani.saha@98 amee@123
-    Anisha Saha and Ameesha Gupta are now friends
+    ani.saha@98 nkks0512
+    Anisha Saha and Niharika Kapoor are now friends
     gtodi@12 aki@123
     Gaurish Todi and Akshat Gupta are now friends
     nilay2612 vjami@23
@@ -63,12 +63,12 @@
     friends of Vishnu Jami:
     Akshat Gupta
     Nilay Gupta
-    friends of Ameesha Gupta are 1
-    friends of Ameesha Gupta:
+    friends of Niharika Kapoor are 1
+    friends of Niharika Kapoor:
     Anisha Saha
     friends of Anisha Saha are 1
     friends of Anisha Saha:
-    Ameesha Gupta
+    Niharika Kapoor
     friends of Ananya Shukla are 1
     friends of Ananya Shukla:
     Nilay Gupta
@@ -80,7 +80,7 @@
     friendship strength of Nilay Gupta is 8.800
     friendship strength of Gaurish Todi is 8.200
     friendship strength of Vishnu Jami is 8.800
-    friendship strength of Ameesha Gupta is 8.600
+    friendship strength of Niharika Kapoor is 8.600
     friendship strength of Anisha Saha is 8.200
     friendship strength of Ananya Shukla is 8.200
     friendship strength of Akshat Gupta is 9.200
