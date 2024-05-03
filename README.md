@@ -29,8 +29,8 @@
     akks0512
     18
 
-    Tiya Agarwal
-    tiyaaa123
+    Akshat Gupta
+    aki@123
     19
 
     0  //Entering 0 to stop the prompt
@@ -41,12 +41,12 @@
     To stop the prompt enter 0
     akks0512 nilay2612
     Ananya Shukla and Nilay Gupta are now friends
-    tiyaaa123 vjami@23
-    Tiya Agarwal and Vishnu Jami are now friends
+    aki@123 vjami@23
+    Akshat Gupta and Vishnu Jami are now friends
     ani.saha@98 amee@123
     Anisha Saha and Ameesha Gupta are now friends
-    gtodi@12 tiyaaa123
-    Gaurish Todi and Tiya Agarwal are now friends
+    gtodi@12 aki@123
+    Gaurish Todi and Akshat Gupta are now friends
     nilay2612 vjami@23
     Nilay Gupta and Vishnu Jami are now friends
 
@@ -58,10 +58,10 @@
     Vishnu Jami
     friends of Gaurish Todi are 1
     friends of Gaurish Todi:
-    Tiya Agarwal
+    Akshat Gupta
     friends of Vishnu Jami are 2
     friends of Vishnu Jami:
-    Tiya Agarwal
+    Akshat Gupta
     Nilay Gupta
     friends of Ameesha Gupta are 1
     friends of Ameesha Gupta:
@@ -72,8 +72,8 @@
     friends of Ananya Shukla are 1
     friends of Ananya Shukla:
     Nilay Gupta
-    friends of Tiya Agarwal are 2
-    friends of Tiya Agarwal:
+    friends of Akshat Gupta are 2
+    friends of Akshat Gupta:
     Vishnu Jami
     Gaurish Todi
 
@@ -83,13 +83,13 @@
     friendship strength of Ameesha Gupta is 8.600
     friendship strength of Anisha Saha is 8.200
     friendship strength of Ananya Shukla is 8.200
-    friendship strength of Tiya Agarwal is 9.200
-    The most social person is Tiya Agarwal with score 9.200
+    friendship strength of Akshat Gupta is 9.200
+    The most social person is Akshat Gupta with score 9.200
 
-    Mutuals Recommendation for Nilay Gupta is Tiya Agarwal
+    Mutuals Recommendation for Nilay Gupta is Akshat Gupta
     Mutuals Recommendation for Gaurish Todi is Vishnu Jami
     Mutuals Recommendation for Vishnu Jami is Gaurish Todi
     Mutuals Recommendation for Vishnu Jami is Ananya Shukla
     Mutuals Recommendation for Ananya Shukla is Vishnu Jami
-    Mutuals Recommendation for Tiya Agarwal is Nilay Gupta
+    Mutuals Recommendation for Akshat Gupta is Nilay Gupta
     nilaygupta@Nilays-MacBook-Air Social_Basics % 
