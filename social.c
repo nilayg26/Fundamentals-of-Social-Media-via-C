@@ -22,9 +22,9 @@ int main(){
     char userID[50];
     int age;
     printf("To stop the prompt enter 0 when prompt asks user name\n");
-    printf("Enter the name of user\n"); 
-    printf("Enter the USER ID of user\n");
-    printf("Enter the age of user \n");
+    printf("Line 1: Enter the name of user\n"); 
+    printf("Line 2: Enter the USER ID of user\n");
+    printf("Line 3: Enter the age of user \n");
     char name[50];
     int i;
     for (i = 0; i < 100; i++) {
